@@ -30,20 +30,22 @@ KMR - 1.8 SPI je 1,8-palčni zaslon s tehnologijo SPI, ki omogoča prikazovanje 
 
 Arduino NANO je mikrokrmilnik, ki temelji na mikrokontrolerju Atmel AVR – ATmega328. Ima 14 digitalnih vhodno-izhodnih povezav, 8 analognih vhodov, kot tudi USB priključek za povezavo s računalnikom in napajanje. Velikost je zelo majhna in enostavna za uporabo, kar omogoča enostavno integracijo v različne projekte. NANO ima tudi možnost programiranja preko spletnega vmesnika za razvoj Arduino in drugih programskih jezikov, kot so C in C++. Napaja se prek USB vmesnika ali prek zunanjega napajalnika. Ima regulator napetosti, ki omogoča napajanje v območju 7-12 V.
 
-![Slika 1: Arduino Nano](povezava_do_slike1.jpg)
+<img src="https://github.com/dino619/VIN_Projekt/assets/77354182/21be8681-772f-48d3-8ff5-2b0e00cada9e" width="20%">
 
 ##  Senzor za Merjenje Vremenskih Parametrov – BME / BMP280
 
 BME / BMP280 je digitalni barometrični senzor, ki se uporablja za merjenje vremenskih parametrov v okolju. To omogoča uporabnikom, da spremljajo spremembe vremenskih pogojev ter nadmorske višine. Je majhen in kompakten senzor, kar omogoča enostavno vgradnjo v različne naprave in projekte. Senzor podpira komunikacijo prek standardnih I2C (Inter-Integrated Circuit) in SPI (Serial Peripheral Interface) vmesnikov, kar omogoča enostavno povezovanje z mikrokrmilniki, kot je Arduino. Senzor lahko meri tlak v območju od 300 hPa do 1100 hPa, kar je primerljivo z razponom tlaka na različnih nadmorskih višinah. Senzor se tudi uporablja v meteoroloških postajah, napravah za sledenje višine, vremenskih balonih, pametnih napravah za nošenje in drugih aplikacijah, kjer je potrebno merjenje tlaka in temperature.
 
-![Slika 2: Senzor BME / BMP280](povezava_do_slike2.jpg)
+<img src="https://github.com/dino619/VIN_Projekt/assets/77354182/c4373aeb-35f8-4522-914b-439f59cc0080" width="20%">
+
+
 
 ##  KMR - 1.8 SPI
 
 1.8-palčni SPI TFT (Thin-Film Transistor) zaslon je barvni zaslon, ki uporablja tehnologijo tankoslojnih tranzistorjev za prikaz slike. To omogoča bogate barve in visoko kakovost slike. Njegova resolucija je običajno 128x160 pikslov, kar omogoča jasen in podroben prikaz informacij. Ta zaslon se povezuje s pomočjo serijskega perifernega vmesnika (SPI - Serial Peripheral Interface). To omogoča enostavno povezovanje z mikrokrmilniki, kot je Arduino, ki podpirajo SPI komunikacijo.
 Zasloni podpirajo risanje besedila, oblikovanje grafičnih elementov, kot so črte in pravokotniki ter prikazovanje ikon. To omogoča ustvarjanje interaktivnih uporabniških vmesnikov.
 
-![KMR - 1.8 SPI](https://www.jameco.com/Jameco/Products/MakeImag/2319151.jpg)
+
 
 
 
