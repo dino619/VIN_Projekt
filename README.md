@@ -45,7 +45,12 @@ BME / BMP280 je digitalni barometrični senzor, ki se uporablja za merjenje vrem
 1.8-palčni SPI TFT (Thin-Film Transistor) zaslon je barvni zaslon, ki uporablja tehnologijo tankoslojnih tranzistorjev za prikaz slike. To omogoča bogate barve in visoko kakovost slike. Njegova resolucija je običajno 128x160 pikslov, kar omogoča jasen in podroben prikaz informacij. Ta zaslon se povezuje s pomočjo serijskega perifernega vmesnika (SPI - Serial Peripheral Interface). To omogoča enostavno povezovanje z mikrokrmilniki, kot je Arduino, ki podpirajo SPI komunikacijo.
 Zasloni podpirajo risanje besedila, oblikovanje grafičnih elementov, kot so črte in pravokotniki ter prikazovanje ikon. To omogoča ustvarjanje interaktivnih uporabniških vmesnikov.
 
+## Končni izdelek
 
+![Screenshot_1](https://github.com/dino619/VIN_Projekt/assets/77354182/f9b569e6-edcf-4547-add6-df55c697baf0)
+
+## Končni izdelek video
+https://www.youtube.com/embed/VIDEO_ID](https://youtube.com/shorts/3uMXSxRAEEw
 
 
 
